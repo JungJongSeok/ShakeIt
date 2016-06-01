@@ -1,0 +1,100 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff8b90af"
+    tools:context=".activity.MainActivity">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        style="@style/Toolbar">
+
+        <ImageView
+            android:id="@+id/content_hamburger"
+            style="@style/ImageView.Hamburger"
+            android:padding="10dp"
+            android:src="@drawable/ic_menu_90" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/activity"
+            android:textSize="@dimen/guillotine_item_text_size" />
+    </android.support.v7.widget.Toolbar>
+
+    <com.yalantis.phoenix.PullToRefreshView
+        android:id="@+id/pull_to_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar">
+
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <com.daimajia.androidviewhover.BlurLayout
+                    android:id="@+id/hat_blurLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp">
+                    <ImageView
+                        android:scaleType="fitXY"
+                        android:src="@drawable/hat"
+                        android:layout_width="match_parent"
+                        android:layout_height="125dp" />
+                </com.daimajia.androidviewhover.BlurLayout>
+
+                <com.daimajia.androidviewhover.BlurLayout
+                    android:id="@+id/tee_blurLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp">
+                    <ImageView
+                        android:scaleType="fitXY"
+                        android:src="@drawable/tee"
+                        android:layout_width="match_parent"
+                        android:layout_height="125dp" />
+                </com.daimajia.androidviewhover.BlurLayout>
+
+
+                <com.daimajia.androidviewhover.BlurLayout
+                    android:id="@+id/pants_blurLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp">
+                    <ImageView
+                        android:scaleType="fitXY"
+                        android:src="@drawable/pants"
+                        android:layout_width="match_parent"
+                        android:layout_height="125dp" />
+                </com.daimajia.androidviewhover.BlurLayout>
+
+
+                <com.daimajia.androidviewhover.BlurLayout
+                    android:id="@+id/shoes_blurLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp">
+                    <ImageView
+                        android:scaleType="fitXY"
+                        android:src="@drawable/shoes"
+                        android:layout_width="match_parent"
+                        android:layout_height="125dp" />
+                </com.daimajia.androidviewhover.BlurLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+    </com.yalantis.phoenix.PullToRefreshView>
+
+
+</RelativeLayout>

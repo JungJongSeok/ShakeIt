@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\javaweb\Android_sdk\build-tools\22.0.1\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2b276904cd854be6d460f2bcec9cf2cddaf580c1">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\renderscript-v8-34ae937aa18f733bb6017fbbf741a73485c784bb.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\Android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-1f9e0aebcc712d44cabc475c1e5e66a79b443e20.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e88a9ed27f98f8c0701d03d5553ce6111ca34a5b">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-f0c3cfc106d29bc1082b5c8fb29aeb4fad07e38a.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\AndroidSweetSheet-master.libsModule\GuillotineMenu\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f09f4da7982f473bff220fe8798212b031724c95">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-96bc068e267921d96d6c04f11d101dea0e1646f5.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\AndroidSweetSheet-master.libsModule\ViewHover\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="589b5e0db01e1ab6b31e51baeb56dfcef4ddfa8d">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-aa64c0dd9bf96a140e1366b33191298853ed032f.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\JongSuk\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\library-2.4.0-941fd3e1a07d06cc37d4445625d70f39573988b0.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\AndroidSweetSheet-master.libsModule\PullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c8051da5e9202b4e33a048005e9175750da0335d">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-3416f8da523742754b72ad275e5024d413578fe4.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-b4ae8349b589b4f776c81b97cc4e5d8470c6ad73.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\gcm-bee574695ecdf6fe53c9fe7bc63e455124bef15a.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5-42484af2e59ef87fe6a84e28fdc25ea6a6cc96c3.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-26c542b6738c7257407e646a608599684bfbf5bb.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85ccb558dc8258ecf4f0a19e97a3114ec2c64cb4">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-6bd6fb9f4f6489f0c9c306070bb94c8d94d0a1ba.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\JongSuk\.gradle\caches\modules-2\files-2.1\io.realm\realm-android\0.87.5\ab4e1fead1380252dad0e95658e53ea0c113e89c\realm-android-0.87.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ab4e1fead1380252dad0e95658e53ea0c113e89c">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\realm-android-0.87.5-f3623ce328dc334461df6e3832f389f8dfc13cad.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\AndroidSweetSheet-master.libsModule\MPChartLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a6489ab1a4c8eaa586f651f95501ffbbbde12fe2">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-2de987cca12d8fdb4689b8a93264c41dad4dc3c6.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\AndroidSweetSheet-master.libsModule\bubbleView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0049b84703863c1a56454540ca3a01ea0800fc89">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-ef67b709947b15b3ac3e0de48c23ac9a9dab36a4.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\libs\gcm-server.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a598197ed7192e3f67b00168c55b3f22c8e3435e">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\gcm-server-df78492840c7bd097c79268b707f1be1e15a4fdc.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1-28c73c4a356ac9ba9ac378e648e254149fe91f4c.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3812f89e64ae0e865df72574ffe7c5a516e1cc91">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-a0b923892c7ae316a7ff2178002d46c724e11b5b.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\AndroidSweetSheet-master.libsModule\TextSurfaceView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8c2f05d74a8fdc38a1e405661bef3864ede523">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-f94133614faf7c308fe09042707808c6a8cbeeb7.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-7f4046a5ae73a339c43a3c48848ca169471249bb.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\exploded-aar\nmaps\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="16881a2d43d0af0f6bddbab0e10731a650bd2fa0">
+        <dex dex="C:\javaweb\workspace\AndroidSweetSheet-master\app\build\intermediates\pre-dexed\debug\classes-b280644ef7fc7af8af3417841cb57110d276d87e.jar\classes.dex" />
+    </item>
+
+</items>

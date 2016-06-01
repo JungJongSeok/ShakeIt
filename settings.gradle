@@ -1,0 +1,7 @@
+include ':app'
+include ':libsModule:MPChartLib'
+include ':libsModule:PullToRefresh'
+include ':libsModule:ViewHover'
+include ':libsModule:bubbleView'
+include ':libsModule:TextSurfaceView'
+include ':libsModule:GuillotineMenu'
